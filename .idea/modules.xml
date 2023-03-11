@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-backend-bootcamp-assignment.iml" filepath="$PROJECT_DIR$/.idea/java-backend-bootcamp-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session-03-java-basics/java-basic-exercise/java-basic-exercise.iml" filepath="$PROJECT_DIR$/session-03-java-basics/java-basic-exercise/java-basic-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session-04-java-collections/java-collections-exercise/java-collections-exercise.iml" filepath="$PROJECT_DIR$/session-04-java-collections/java-collections-exercise/java-collections-exercise.iml" />
+    </modules>
+  </component>
+</project>
