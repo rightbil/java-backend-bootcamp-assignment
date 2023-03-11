@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java-basic-exercise" target="19" />
-      <module name="java-collections-exercise" target="17" />
+      <module name="java-collections-exercise" target="19" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
